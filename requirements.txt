@@ -1,0 +1,9 @@
+flask==3.1.0
+flask-mysql==1.6.0
+pip==24.3.1
+flask-pymongo==2.3.0
+flask-wtf==1.2.2
+bcrypt==4.2.1
+flask-jwt-extended==4.7.1
+pymongo~=4.10.1
+Werkzeug~=3.1.3
